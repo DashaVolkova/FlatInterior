@@ -1,0 +1,6 @@
+.data/
+.process/
+node_modules/
+
+*.sublime-project
+*.sublime-workspace
